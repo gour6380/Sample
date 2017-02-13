@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MTC</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="father">Father/Mother Name</string>
+    <string name="mobile">Mobile No.</string>
+    <string name="bpl">BPL Number</string>
+    <string name="dob">Date of Birth</string>
+    <string name="save">Save</string>
+    <string name="person_name">Name :-</string>
+    <string name="person_father">Father Name :-</string>
+    <string name="person_mobile">Mobile Number :-</string>
+    <string name="test_name">Gourav</string>
+    <string name="dummy_father">Mukesh</string>
+    <string name="dummy_mobile">123456789</string>
+    <string name="login">Login</string>
+    <string name="add">Add Child</string>
+    <string name="edit">Edit</string>
+    <string name="send">Send</string>
+    <string name="transfer">Transfer to another</string>
+</resources>
